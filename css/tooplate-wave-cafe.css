@@ -139,7 +139,7 @@ border-radius: 25px; }
     
 }
 
-.tm-drinks-nav > ul > li { display: inline-block; }
+.tm-drinks-nav > ul > li { display: inline-block }
 
 .tm-drinks-nav > ul > li > a {
     color: white;
@@ -172,7 +172,7 @@ border-radius: 25px; }
 }
 
 .tm-list-item{
-    background-color: rgba(0,0,0,0.6);
+    background-color: rgba(0,0,0,0.9);
     display: flex;
     align-items: center;
     justify-content: space-between;
